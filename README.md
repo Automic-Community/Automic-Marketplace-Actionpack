@@ -9,7 +9,7 @@ http://github.com/Automic-Community/Automic-Marketplace-Actionpack
 Contents of Solution Package:
 
 						
-								*PCK.CUSTOM_MARKETAPLCE_1.0.01.zip
+								*PCK.CUSTOM_MARKETAPLCE_1.0.02.zip
 								
 								*documentation1.rtf
 								
